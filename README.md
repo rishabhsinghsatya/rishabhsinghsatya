@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React native, Remotion**
+- 🌱 I’m currently learning **Next.js, typescript**
 
 - 📝 I regularly write articles on [https://medium.com/@vineetsatya36](https://medium.com/@vineetsatya36)
 
